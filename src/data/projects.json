@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Paris Olympics Analysis",
+    "imageSrc": "projects/paris olympics.jpg",
+    "description": "This dashboard provides a comprehensive overview of the Paris Olympics, including the performance of each participating country, the medal count for each nation, and a historical analysis of past Olympic Games.",
+    "skills": ["Power BI", "EDA"],
+    "source": "https://github.com/Tarakaramu9141/Olympics-Dashboard-2024"
+  },
+  {
+    "title": "Flat tire Detection",
+    "imageSrc": "projects/flattyre detection.jpg",
+    "description": "Developed a flat tire detection model using RNN algorithms to identify characteristic hammering sounds.",
+    "skills": ["Machine Learning", "Computer Vision", "RNN"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Tarakaramu9141"
+  }
+]

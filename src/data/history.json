@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "CRIS",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": ["Centre for Railway Information System (CRIS)","Implemented an RNN-based model to detect and classify the unique acoustic signatures of flat tires, enabling early detection of tire failures."],
+    "imageSrc": "history/CRIS.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.png"
+  },
+  {
+    "title": "Power BI",
+    "imageSrc": "skills/powerbi.png"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/numpy.png"
+  },
+  {
+    "title": "Tensorflow",
+    "imageSrc": "skills/tensorflow.png"
+  },
+  {
+    "title": "MS-Excel",
+    "imageSrc": "skills/Ms-excel.png"
+  },
+  {
+    "title": "Looker",
+    "imageSrc": "skills/looker.png"
+  }
+]
