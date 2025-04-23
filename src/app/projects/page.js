@@ -34,6 +34,13 @@ const projects = [
     image: '/project5.png',
     githubLink: 'https://github.com/Tarakaramu9141/Sentiment-Analysis-with-Feedback-and-Retraining',
   },
+  {
+    title: 'AI ATS Resume Maker',
+    description: 'AI ATS Resume Maker Pro is a Streamlit-based tool that optimizes resumes for Applicant Tracking Systems (ATS) by analyzing keyword matches and content relevance. It offers professional resume generation with customizable templates and real-time improvement suggestions.',
+    image: '/project6.png',
+    liveLink: 'https://ai-ats-resume-maker-pr0.streamlit.app/',
+    githubLink: 'https://github.com/Tarakaramu9141/AI-ATS-Resume-Maker-Pro',
+  },
 ];
 
 export default function Projects() {
