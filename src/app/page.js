@@ -43,8 +43,8 @@ export default function Home() {
               <Image
                 src="/profile.png"
                 alt="K Taraka Ramu"
-                width={250}
-                height={250}
+                width={350}
+                height={350}
                 className="rounded-full border-4 border-green-500"
               />
             </a>
@@ -55,7 +55,7 @@ export default function Home() {
           <p className="text-lg mb-4 text-gray-200 typing-effect">{text}</p>
           <p className="text-sm text-gray-300 mb-4">Wanna check resume, press the image</p>
           <p className="text-lg text-gray-200">
-            I am a data professional proficient in SQL, Python, Power BI, and advanced machine learning, dedicated to unlocking data's potential for impactful decisions. I analyze complex datasets, create insightful visualizations, and build predictive models to drive strategic optimization and deliver measurable results.
+            I am a data professional proficient in SQL, Python, and advanced machine learning, dedicated to unlocking data's potential for impactful decisions. I analyze complex datasets, create insightful visualizations, and build predictive models to drive strategic optimization and deliver measurable results.
           </p>
         </div>
       </div>
